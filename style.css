@@ -1,0 +1,31 @@
+.list-group {
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.list-group>li:nth-child(even) {
+    background: #D8D8D8;
+}
+
+.list-group>li:nth-child(even):hover {
+    background: #dee2e6;
+}
+
+.list-group-item {
+    display: flex !important;
+    justify-content: space-between;
+    cursor: pointer !important;
+}
+
+.checked {
+    display: none !important;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.check-bg {
+    background-color: #256D85 !important;
+    color: #fff !important;
+}

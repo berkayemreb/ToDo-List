@@ -27,3 +27,6 @@ Since I have included ***Local Storage*** in the project, the final version of t
 --------------------
 
 If you want to try the website, [Click Me.](https://to-do-list-ten-red.vercel.app/)
+
+*<div align="end"> - Author: [Berkay Emre BOĞUM](https://www.linkedin.com/in/berkay-emre-bo%C4%9Fum-058782240/) </div>*
+
